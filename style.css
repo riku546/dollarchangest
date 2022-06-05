@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+h1{
+ display: flex;
+ justify-content: center;
+ margin-top: 20px;
+}
+
+
+.change-form{
+  display: flex;
+justify-content: center;
+padding: 100px 0;
+
+}
+
+
+.arrow{
+
+}
+
+button{
+  border: none;
+  background-color: yellow;
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  margin-top :50px; 
+  margin-right: 20px;
+}
+
+.buttons{
+  display: flex;
+  justify-content: center;
+}
